@@ -7,7 +7,7 @@ h1 {
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 #d4e21b;
 
 }
 
@@ -69,7 +69,7 @@ background-image: url(./images/kick.png);
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
+  color: #da0404cc;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
@@ -78,4 +78,9 @@ background-image: url(./images/kick.png);
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+footer{
+  font-size: 1.7rem;
+  font-weight: bold;
 }
